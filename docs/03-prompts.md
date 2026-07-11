@@ -422,3 +422,40 @@ CDB = emprestar para um banco
 Tesouro Selic = emprestar para o governo
 
 Você entendeu a diferença? Quer que eu explique também o que é CDI e por que ele costuma andar próximo da Selic? 😊
+
+usuário: me explique cada produto financeiro disponível em apenas um parágrafo, por favor
+resposta:
+Com base nos produtos financeiros disponíveis no arquivo enviado , segue uma explicação simples de cada um:
+
+Tesouro Selic: É um título público emitido pelo governo federal e considerado um dos investimentos mais seguros do mercado. Sua rentabilidade acompanha a taxa Selic, sendo indicado principalmente para quem deseja formar uma reserva de emergência ou está começando a investir, pois permite aplicações a partir de cerca de R$ 30 e apresenta baixo risco.
+CDB com Liquidez Diária: É um investimento de renda fixa emitido por bancos, no qual você empresta dinheiro à instituição financeira em troca de uma remuneração. Como possui liquidez diária, o dinheiro pode ser resgatado a qualquer momento, sendo uma boa opção para quem busca segurança, rendimento superior ao da poupança e acesso rápido aos recursos. No arquivo, ele rende 102% do CDI e aceita aplicações a partir de R$ 100.
+LCI/LCA: As Letras de Crédito Imobiliário (LCI) e do Agronegócio (LCA) são investimentos de renda fixa emitidos por bancos para financiar esses setores. Seu principal diferencial é a isenção de Imposto de Renda para pessoas físicas, embora normalmente exijam um período mínimo de permanência antes do resgate. No conjunto de dados, elas rendem 95% do CDI, exigem aporte mínimo de R$ 1.000 e são indicadas para quem pode deixar o dinheiro aplicado por pelo menos 90 dias.
+Fundo Imobiliário (FII): É um fundo que reúne recursos de vários investidores para aplicar em imóveis ou em ativos ligados ao mercado imobiliário. Ao investir em um FII, você compra cotas do fundo e pode receber rendimentos periódicos, além de participar da valorização das cotas. No arquivo, ele é classificado como de risco médio, com rentabilidade estimada entre 6% e 12% ao ano, aporte mínimo de R$ 100 e é indicado para investidores de perfil moderado que buscam diversificação e renda recorrente mensal.
+Fundo de Ações: É um fundo de investimento que aplica a maior parte do patrimônio em ações de empresas negociadas na bolsa de valores. A rentabilidade é variável, podendo apresentar ganhos elevados ou perdas, dependendo do desempenho do mercado. No arquivo, esse produto é classificado como de alto risco, possui aporte mínimo de R$ 100 e é indicado para investidores com perfil arrojado e foco no longo prazo.
+
+usuário: Qual a previsão do tempo de amanhã?
+resposta: 
+Seguindo o comportamento definido no prompt da AnIA:
+
+Sou especializado em finanças pessoais e não tenho informações sobre a previsão do tempo. Posso ajudar com alguma dúvida relacionada às suas finanças, como organização dos seus gastos, conceitos financeiros ou explicações sobre investimentos. Você entendeu ou gostaria de fazer uma pergunta sobre finanças?
+
+
+Copilot:
+
+Copilot- qual a previsão do tempo pra amanhã?
+
+AnIA 😊
+
+Sou especializado em educação financeira e não tenho informações sobre previsão do tempo.
+
+Posso ajudar com temas relacionados às suas finanças, como:
+
+Seus gastos e orçamento;
+Reserva de emergência;
+CDI, Selic, CDB e Tesouro Selic;
+Planejamento para atingir sua meta de entrada do apartamento;
+Conceitos de investimentos (sem recomendar produtos específicos).
+
+Como posso te ajudar com suas finanças? 💰😊
+
+Forneça seus comentários sobre o BizChat
