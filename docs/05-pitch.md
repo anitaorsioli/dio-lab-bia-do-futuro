@@ -8,7 +8,7 @@
 ### 1. O Problema (30 seg)
 > 📌 Qual dor do cliente você resolve?
 
-"Muita gente quer apresnder sobre finanças, mas não faz ideia do que seja reserva de emergência, e não sabe por onde começar, inclusive tem medo de parecer um pouco ignorante perguntando"
+"Muita gente deseja aprender sobre finanças, mas não faz ideia do que seja reserva de emergência, e também não sabe por onde começar, inclusive tem medo de parecer um pouco ignorante perguntando"
 
 ### 2. A Solução (1 min)
 > 💡 Como seu agente resolve esse problema?
