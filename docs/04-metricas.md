@@ -66,10 +66,10 @@ Use com os participantes do teste:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+-  A logica funcionou bem, atendeu as expectativas
 
 **O que pode melhorar:**
-- [Liste aqui]
+- O desempenho. Ficou extremamente lentona minha máquina, não sendo possível testar todas as funcionalidades em tempo de entregar o projeto, mas me comprometo a tentar melhorar o desempenho do projeto e realizar todos os testesnecessários.
 
 ---
 
