@@ -2,36 +2,47 @@
 
 ## Contexto
 
-Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots reativos para **agentes inteligentes e proativos**. Neste desafio, você vai idealizar e prototipar um agente financeiro que utiliza IA Generativa para:
+Este repositório contém a minha implementação para o desafio de desenvolvimento de um Agente Financeiro Inteligente utilizando IA Generativa.
 
-- **Antecipar necessidades** ao invés de apenas responder perguntas
-- **Personalizar** sugestões com base no contexto de cada cliente
-- **Cocriar soluções** financeiras de forma consultiva
-- **Garantir segurança** e confiabilidade nas respostas (anti-alucinação)
+## Minha Implementação e Diferenciais
+
+🌟 Principais Funcionalidades Implementadas:
+Antecipação Ativa: O agente não espera o usuário perguntar; ele analisa o transacoes.csv e sugere insights baseados em desvios de padrão.
+
+Persona Adaptativa: Configurado com um tom de voz [ex: Consultor Amigável / Analista Técnico] detalhado no System Prompt.
+
+Mecanismo Anti-Alucinação: Implementação de travas de segurança via prompt e checagem de dados para garantir que o agente só recomende produtos contidos em produtos_financeiros.json.
 
 > [!TIP]
 > Na pasta [`examples/`](./examples/) você encontra referências de implementação para cada etapa deste desafio.
+Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
+---
+🛠️ Tecnologias e Ferramentas Utilizadas
+Para este protótipo, selecionei a seguinte stack tecnológica:
 
+LLM: Ollama com gpt-oss
+
+Interface Visual: Streamlit
+
+Orquestração & Prompts: Utilizando o Python no VS Code
+
+Análise de Dados: 
+    Pandas (para leitura dos arquivos mockados em data/)
+    Streamlit (para visualização do chat criado)
+    
 ---
 
-## O Que Você Deve Entregar
-
-### 1. Documentação do Agente
-
-Defina **o que** seu agente faz e **como** ele funciona:
+[ ] 1. Documentação do Agente: Detalhada 
 
 - **Caso de Uso:** Qual problema financeiro ele resolve? (ex: consultoria de investimentos, planejamento de metas, alertas de gastos)
 - **Persona e Tom de Voz:** Como o agente se comporta e se comunica?
 - **Arquitetura:** Fluxo de dados e integração com a base de conhecimento
 - **Segurança:** Como evitar alucinações e garantir respostas confiáveis?
-
-📄 **Template:** [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md)
+- 📄 **Template:** [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md)
 
 ---
 
-### 2. Base de Conhecimento
-
-Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
+[ ] 2. Base de Conhecimento
 
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
@@ -46,9 +57,7 @@ Você pode adaptar ou expandir esses dados conforme seu caso de uso.
 
 ---
 
-### 3. Prompts do Agente
-
-Documente os prompts que definem o comportamento do seu agente:
+[ ] 3. Prompts do Agente: Engenharia de prompt documentada em docs/03-prompts.md
 
 - **System Prompt:** Instruções gerais de comportamento e restrições
 - **Exemplos de Interação:** Cenários de uso com entrada e saída esperada
@@ -58,9 +67,11 @@ Documente os prompts que definem o comportamento do seu agente:
 
 ---
 
-### 4. Aplicação Funcional
+[ ] 4. Aplicação Funcional: Código do protótipo interativo localizado na pasta src/
 
-Desenvolva um **protótipo funcional** do seu agente:
+🏃‍♂️ Como Executar a Aplicação
+
+Foi desenvolvido um **protótipo funcional** do agente:
 
 - Chatbot interativo (sugestão: Streamlit, Gradio ou similar)
 - Integração com LLM (via API ou modelo local)
@@ -70,11 +81,11 @@ Desenvolva um **protótipo funcional** do seu agente:
 
 ---
 
-### 5. Avaliação e Métricas
+[ ] 5. Avaliação e Métricas: Relatório de comportamento do modelo em docs/04-metricas.md
 
-Descreva como você avalia a qualidade do seu agente:
+Como avaliar a qualidade do agente:
 
-**Métricas Sugeridas:**
+**Métricas Utilizadas:**
 - Precisão/assertividade das respostas
 - Taxa de respostas seguras (sem alucinações)
 - Coerência com o perfil do cliente
@@ -83,9 +94,9 @@ Descreva como você avalia a qualidade do seu agente:
 
 ---
 
-### 6. Pitch
+[ ] 6. Pitch: Roteiro e link do vídeo de 3 minutos em docs/05-pitch.md
 
-Grave um **pitch de 3 minutos** (estilo elevador) apresentando:
+Vídeo **pitch de 3 minutos** (estilo elevador) apresentando:
 
 - Qual problema seu agente resolve?
 - Como ele funciona na prática?
@@ -140,10 +151,13 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 
 ---
 
-## Dicas Finais
+🤝 Créditos
+Este projeto é um fork do desafio original Agente Financeiro Inteligente com IA Generativa. As instruções de contexto e os dados mockados da pasta data/ foram mantidos para garantir a conformidade com os requisitos propostos.
 
-1. **Comece pelo prompt:** Um bom system prompt é a base de um agente eficaz
-2. **Use os dados mockados:** Eles garantem consistência e evitam problemas com dados sensíveis
-3. **Foque na segurança:** No setor financeiro, evitar alucinações é crítico
-4. **Teste cenários reais:** Simule perguntas que um cliente faria de verdade
-5. **Seja direto no pitch:** 3 minutos passam rápido, vá ao ponto
+## Considerações Finais do Passo a Passo:
+
+1. **Começamos pelo prompt:** Pois um bom system prompt é a base de um agente eficaz
+2. **Usamos os dados mockados:** Pois eles garantem consistência e evitam problemas com dados sensíveis
+3. **Focamos na segurança:** No setor financeiro, evitar alucinações é crítico
+4. **Testamos cenários reais:** Simular perguntas que um cliente faria de verdade
+5. **Seja direto no pitch:** 3 minutos aproximadamente
