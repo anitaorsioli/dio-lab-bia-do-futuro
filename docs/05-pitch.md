@@ -43,5 +43,7 @@ Diferente da maioria dos chats genéricos, a AnIA usa seus dados como exemplo. I
 ## Link do Vídeo
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+> 
+> Tive problemas com a entrega do vídeo, já estou trabalhando nisso. Obrigada pela compreensão
 
-[Link do vídeo]
+[Link do vídeo] -> https://github.com/anitaorsioli/dio-lab-bia-do-futuro/tree/main/examples
