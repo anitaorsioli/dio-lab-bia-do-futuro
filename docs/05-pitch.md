@@ -26,7 +26,7 @@ Compartilhe tela e faça 2 a 3 perguntas ao Edu
 ### 4. Diferencial e Impacto (30 seg)
 > ✅ Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-Diferente damaioria dos chats genéricos, a AnIA usa seus dados como exemplo. Isso torna o aprendizado concreto. E o melhor: rodando localmente 100%, sem custo e semenviar seus dados para ninguém"
+Diferente da maioria dos chats genéricos, a AnIA usa seus dados como exemplo. Isso torna o aprendizado concreto. E o melhor: rodando localmente 100%, sem custo e semenviar seus dados para ninguém"
 
 ---
 
