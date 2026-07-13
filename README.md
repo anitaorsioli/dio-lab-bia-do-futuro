@@ -145,8 +145,8 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 ├── 📁 assets/                        # Imagens e diagramas
 │   └── ...
 │
-└── 📁 examples/                      # Referências e exemplos
-    └── README.md
+└── 📁 entrega/                      # Vídeo de entrega de projeto
+    └── Bootcamp Afya.mp4
 ```
 
 ---
@@ -161,3 +161,5 @@ Este projeto é um fork do desafio original Agente Financeiro Inteligente com IA
 3. **Focamos na segurança:** No setor financeiro, evitar alucinações é crítico
 4. **Testamos cenários reais:** Simular perguntas que um cliente faria de verdade
 5. **Seja direto no pitch:** 3 minutos aproximadamente
+
+Obs.: Tive problemas com a entrega do víedeo completo até a data, e estou disponibilizando o trabalho realizado, mas vou refazer e reentregar o vídeo completo, pois o aplicativo que baixei no modo trial só gravava um minuto de vídeo. Estou concluindo a entrega dos trêsminutos
