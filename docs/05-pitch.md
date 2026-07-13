@@ -46,6 +46,4 @@ Diferente da maioria dos chats genéricos, a AnIA usa seus dados como exemplo. I
 > ---
 > **https://drive.google.com/file/d/1NQyk3kjux_rF14TFuRbh_KXp_8gmx-CT/view?usp=drive_link**
 > ---
-> Tive problemas com a entrega do vídeo, já estou trabalhando nisso. Obrigada pela compreensão
-
 [Link do material do vídeo] -> https://github.com/anitaorsioli/dio-lab-bia-do-futuro/tree/main/examples
