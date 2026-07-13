@@ -145,7 +145,7 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 ├── 📁 assets/                        # Imagens e diagramas
 │   └── ...
 │
-└── 📁 entrega/                      # Vídeo de entrega de projeto
+└── 📁 examples/                      # Arquivos do Vídeo de entrega de projeto
     └── Bootcamp Afya.mp4
 ```
 
