@@ -4,7 +4,7 @@ Esta pasta contém exemplos de implementação para cada etapa do desafio.
 
 ## Vídeos de Referência
 
-> 🎬 Em breve serão disponibilizados vídeos demonstrando a implementação completa de cada etapa, com foco no raciocínio por trás de cada decisão.
+> 🎬 Vídeo demonstrando o projeto: https://drive.google.com/file/d/1NQyk3kjux_rF14TFuRbh_KXp_8gmx-CT/view?usp=drive_link.
 
 | Etapa | Descrição | Link |
 |-------|-----------|------|
@@ -13,7 +13,7 @@ Esta pasta contém exemplos de implementação para cada etapa do desafio.
 | Prompts | Como criar prompts eficazes | [em breve] |
 | Aplicação | Como criar o chatbot funcional | [em breve] |
 | Métricas | Como avaliar seu agente | [em breve] |
-| Pitch | Como apresentar sua solução | [em breve] |
+| Pitch | Como apresentar sua solução |(https://drive.google.com/file/d/1NQyk3kjux_rF14TFuRbh_KXp_8gmx-CT/view?usp=drive_link) |
 
 ## Exemplo de Implementação Simples
 
